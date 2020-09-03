@@ -13,10 +13,10 @@ Download and unzip the zip file.
 
 The project folder contains 4 files:
 
-- * color_detector.py * – main source code of this project.
-- * colorpic.jpg * – sample image 1 for experimenting.
-- * colorpalette.jpg * – sample image 2 for experimenting.
-- * colors.csv * – a file that contains the color dataset.
+- *color_detector.py* – main source code of this project.
+- *colorpic.jpg* – sample image 1 for experimenting.
+- *colorpalette.jpg* – sample image 2 for experimenting.
+- *colors.csv* – a file that contains the color dataset.
 
 ## Run Python File
 
