@@ -1,3 +1,5 @@
+# ColorDetector-OpenCV
+
 ## Prerequisites:
 Before starting with this Python project, 
 you should be familiar with the computer vision library of Python
